@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>1955</b:Year>
+<b:Volume>9</b:Volume>
+<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Title>Research in language translation on the IBM type 701</b:Title>
+<b:Tag>sheridan1955research</b:Tag>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Sheridan</b:Last>
+<b:First>Peter</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>5-24</b:Pages>
+<b:JournalName>IBM Technical Newsletter</b:JournalName>
+</b:Source>
+</b:Sources>
