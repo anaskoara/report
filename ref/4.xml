@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>1988</b:Year>
+<b:Volume>5</b:Volume>
+<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Title>Learning representations by back-propagating errors</b:Title>
+<b:Tag>rumelhart1988learning</b:Tag>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Rumelhart</b:Last>
+<b:Middle>E.</b:Middle>
+<b:First>David</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Hinton</b:Last>
+<b:Middle>E.</b:Middle>
+<b:First>Geoffrey</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Williams</b:Last>
+<b:Middle>J.</b:Middle>
+<b:First>Ronald</b:First>
+</b:Person>
+<b:Person>
+<b:Last>others</b:Last>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>1</b:Pages>
+<b:JournalName>Cognitive modeling</b:JournalName>
+<b:Number>3</b:Number>
+</b:Source>
+</b:Sources>

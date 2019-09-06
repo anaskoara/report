@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>2016</b:Year>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:Title>The United Nations Parallel Corpus</b:Title>
+<b:Tag>ziemski2016unit</b:Tag>
+<b:BookTitle>Language Resources and Evaluation. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), Portorož, Slovenia</b:BookTitle>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Ziemski</b:Last>
+<b:First>Michael</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Junczys-Dowmunt</b:Last>
+<b:First>Marcin</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Pouliquen</b:Last>
+<b:First>Bruno</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:ConferenceName>Language Resources and Evaluation. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), Portorož, Slovenia</b:ConferenceName>
+</b:Source>
+</b:Sources>

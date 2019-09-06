@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>2018</b:Year>
+<b:Volume>6</b:Volume>
+<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Title>Modeling Past and Future for Neural Machine Translation</b:Title>
+<b:Tag>Zheng2018ModelingPA</b:Tag>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Zheng</b:Last>
+<b:First>Zaixiang</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Zhou</b:Last>
+<b:First>Hao</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Huang</b:Last>
+<b:First>Shujian</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Mou</b:Last>
+<b:First>Lili</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Dai</b:Last>
+<b:First>Xinyu</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Chen</b:Last>
+<b:First>Jiajun</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Tu</b:Last>
+<b:First>Zhaopeng</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>145-157</b:Pages>
+<b:JournalName>Transactions of the Association for Computational Linguistics</b:JournalName>
+</b:Source>
+</b:Sources>

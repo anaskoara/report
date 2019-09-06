@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>2002</b:Year>
+<b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+<b:SourceType>ConferenceProceedings</b:SourceType>
+<b:Title>BLEU: a method for automatic evaluation of machine translation</b:Title>
+<b:Tag>papineni2002bleu</b:Tag>
+<b:BookTitle>Proceedings of the 40th annual meeting on association for computational linguistics</b:BookTitle>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Papineni</b:Last>
+<b:First>Kishore</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Roukos</b:Last>
+<b:First>Salim</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Ward</b:Last>
+<b:First>Todd</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Zhu</b:Last>
+<b:First>Wei-Jing</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>311-318</b:Pages>
+<b:ConferenceName>Proceedings of the 40th annual meeting on association for computational linguistics</b:ConferenceName>
+</b:Source>
+</b:Sources>
